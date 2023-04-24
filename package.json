@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@open-wa/wa-automate": "^2.1.6",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "puppeteer": "^19.10.0",
+    "qrcode": "^1.5.1"
+  },
+  "name": "api-bot1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
